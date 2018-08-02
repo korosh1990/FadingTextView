@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">اندروید لایف</string>
+
+
+    <string-array name="text">
+    <item>اندروید لایف</item>
+    <item>جدیدترین آموزش های اندروید</item>
+    <item>آموزش کاتلین</item>
+    </string-array>
+
+</resources>
